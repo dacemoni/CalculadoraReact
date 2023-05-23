@@ -1,4 +1,4 @@
-# 📌 Calculadora Interactiva
+# Calculadora Interactiva
 Aplicación desarrollada con React, una calculadora interactiva que realiza las cuatro operaciones aritméticas básicas (suma, resta, multiplicación y división). 
 
 Esta aplicación fue creada por David César Moro Nieto.
