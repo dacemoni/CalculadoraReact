@@ -5,8 +5,6 @@ Esta aplicación fue creada por David César Moro Nieto.
 
 Respositorio de GitHub: https://github.com/dacemoni/CalculadoraReact
 
-GitHub Pages: https://dacemoni.github.io/CalculadoraReact/
-
 ## Ejecutar la Aplicación
 Para iniciar la aplicación, debes ejecutar el comando `npm start` en el terminal.
 

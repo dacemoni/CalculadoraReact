@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9bc8821-df38-4b38-8b68-17e3094cd88c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/componentes/Boton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/componentes/BotonClear.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/componentes/Pantalla.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hojas-de-estilo/Boton.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hojas-de-estilo/BotonClear.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hojas-de-estilo/Pantalla.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/npm-publish-github-packages.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684870699893</updated>
-      <workItem from="1684870700943" duration="1652000" />
+      <workItem from="1684870700943" duration="2015000" />
     </task>
     <servers />
   </component>
